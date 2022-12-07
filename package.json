@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/EDevLevy/rsxp2019-ci-cd-boas-praticas#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
